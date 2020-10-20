@@ -1,10 +1,10 @@
 title: Margaret Kapitany # your name (or website title) here
 logo: "/images/SAPheadshot.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Hello World!<br>
-  Second description 
-  <br>It's me, Margaret.<br>
+  Hello World
+  <br><br>
+  Second Description
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
