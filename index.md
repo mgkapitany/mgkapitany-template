@@ -4,15 +4,15 @@
 
 ### Analytics Projects
 
-[Project 1 Title](/sample_page.md)
+[Project 1 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/sample_page2.md)
+[Project 2 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/sample_page3.md)
+[Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
